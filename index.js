@@ -30,7 +30,7 @@ var funkyFunction = function() {
 var theFunk = function () {
   return funkyFunction()
 }
-console.log(theFunk)
+console.log(theFunk())
 //
 // console.log(theFunk)
 // console.log(funkyFunction(function(){}))
