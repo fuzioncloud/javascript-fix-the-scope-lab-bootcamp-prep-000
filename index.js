@@ -31,4 +31,4 @@ var theFunk = funkyFunction()
 console.log(theFunk())
 
 console.log(theFunk)
-console.log(funkyFunction)
+console.log(funkyFunction(function()))
