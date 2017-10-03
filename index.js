@@ -30,6 +30,7 @@ var funkyFunction = function() {
 var theFunk = funkyFunction().toString
 
 console.log(theFunk())
+console.log(theFunk)
 //
 // console.log(theFunk)
 // console.log(funkyFunction(function(){}))
